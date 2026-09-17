@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 435 195" fill="none" width="100%" height="100%">
+  <!-- Top row: DAVI in official vibrant red (#E10613) with signature fluid stroke -->
+  <g stroke="#E10613" stroke-width="17.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- D: Open stylized signature contour with top overhang and internal vertical stem -->
+    <path d="M 22 29 C 40 25, 78 24, 106 26 C 136 28, 154 50, 154 71 C 154 94, 134 114, 102 114 C 74 114, 48 113, 36 107 C 30 102, 29 95, 29 84 L 29 48" />
+
+    <!-- A: Inverted chevron with rounded apex -->
+    <path d="M 158 114 C 166 94, 188 38, 198 27 C 201 24, 207 24, 210 27 C 220 38, 242 94, 250 114" />
+
+    <!-- V: Inverted arch with rounded trough -->
+    <path d="M 270 27 C 278 47, 300 103, 310 114 C 313 117, 319 117, 322 114 C 332 103, 354 47, 362 27" />
+
+    <!-- I: Clean vertical pillar -->
+    <path d="M 396 27 L 396 114" />
+  </g>
+
+  <!-- Bottom row: 'bank' aligned under V and I in corporate dark slate -->
+  <text
+    x="234"
+    y="182"
+    fill="#33424B"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+    font-size="68"
+    font-weight="800"
+    letter-spacing="-1.5px"
+  >bank</text>
+</svg>

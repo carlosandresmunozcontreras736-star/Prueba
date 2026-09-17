@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@media print {
+  header, footer, button, input {
+    display: none !important;
+  }
+  main {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+}

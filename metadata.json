@@ -1,0 +1,6 @@
+{
+  "name": "Davibank - Dashboard Ejecutivo Mesa de Ayuda",
+  "description": "Dashboard ejecutivo para el comité de Davibank con indicadores operativos al corte 1-15 de septiembre con y sin excepción, métricas telefónicas, análisis de incidentes y requerimientos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
